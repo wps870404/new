@@ -1,0 +1,3 @@
+C:\Users\cg2lab\Desktop\homework\wang_pin\wang_pin\obj\Debug\netcoreapp3.0\wang_pin.csprojAssemblyReference.cache
+C:\Users\cg2lab\Desktop\homework\wang_pin\wang_pin\obj\Debug\netcoreapp3.0\wang_pin.AssemblyInfoInputs.cache
+C:\Users\cg2lab\Desktop\homework\wang_pin\wang_pin\obj\Debug\netcoreapp3.0\wang_pin.AssemblyInfo.cs
